@@ -1,0 +1,38 @@
+.text-center {
+    text-align: center;
+}
+
+.bg-color {
+    background-color: rgb(230, 229, 229)
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.numbers {
+    background-color: rgb(31, 30, 30);
+    color: aliceblue;
+}
+
+.symbol {
+    color: cyan;
+    background-color: black;
+}
+
+
+.equal {
+    background-color: rgb(65, 206, 65);
+}
